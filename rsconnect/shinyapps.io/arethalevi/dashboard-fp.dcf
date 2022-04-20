@@ -1,0 +1,13 @@
+name: dashboard-fp
+title:
+username:
+account: arethalevi
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5068174
+bundleId: 5227780
+url: https://arethalevi.shinyapps.io/dashboard-fp/
+when: 1636387351.91276
+lastSyncTime: 1636387351.91279
+asMultiple: FALSE
+asStatic: FALSE
